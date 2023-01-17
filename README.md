@@ -1,6 +1,12 @@
-### Hi there 👋
+## Oi. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Tudo bem?
 
-[![ViniTVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniTVS)](https://github.com/ViniTVS/github-readme-stats)
+Bem-vind@ ao meu perfil.
+Sou programador back-end e estudante de Ciência da Computação.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniTVS&count_private=true)](https://github.com/ViniTVS/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniTVS)](https://github.com/ViniTVS/github-readme-stats)
+
 <!--
 **ViniTVS/ViniTVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
