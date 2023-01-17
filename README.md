@@ -4,9 +4,11 @@ Bem-vind@ ao meu perfil.
 
 Sou programador back-end e estudante de Ciência da Computação.
 
-[![My GitHub stats](https://github-readme-stats-vinitvs.vercel.app/api?username=ViniTVS&count_private=true)](https://github.com/ViniTVS/github-readme-stats)
+[Meu site](https://vinitvs.github.io/)
 
-[![Top Langs](https://github-readme-stats-vinitvs.vercel.app/api/top-langs/?username=ViniTVS)](https://github.com/ViniTVS/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-vinitvs.vercel.app/api?username=ViniTVS&count_private=true&theme=github_dark&custom_title=Contribuições)](https://github.com/ViniTVS/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-vinitvs.vercel.app/api/top-langs/?username=ViniTVS&theme=github_dark&layout=compact&custom_title=Linguagens%20mais%20usadas)](https://github.com/ViniTVS/github-readme-stats)
 
 <!--
 **ViniTVS/ViniTVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
