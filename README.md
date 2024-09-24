@@ -1,32 +1,28 @@
-# Oi. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Tudo bem?
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, welcome!
 
-Bem-vind@ ao meu perfil.
+I’m a developer with a Computer Science major and a strong focus on backend development, IoT and robotics. I love building systems that power innovative solutions. I’m usually tinkering with new Arduino/ESP32 projects, eletronics, diving into the latest tech trends or just building new stuff for fun and always excited to collaborate and learn.
 
-Sou programador back-end e estudante de Ciência da Computação atualmente estagiante na Spro IT Solutions. Caso queira, você pode [acessar meu site aqui](https://vinitvs.github.io/).
+## Rapid Fire
 
-Acabo passando maior parte do meu tempo entre o estágio e universidade, mas também sou do tipo que gosta de passar o tempo resolvendo problemas de programação para aprender novas linguagens de programação.
-
-![Minhas linguagens mais usadas](https://github-readme-stats-vinitvs.vercel.app/api/top-langs/?username=ViniTVS&theme=github_dark&layout=compact&custom_title=Minhas%20linguagens%20mais%20usadas)
-
-[![Meu ranking no Codewars](https://www.codewars.com/users/ViniTVS/badges/small)](https://www.codewars.com/users/ViniTVS)
-
-[![LeetCode user ViniTVS](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FViniTVS&logo=leetcode&logoColor=yellow)](https://leetcode.com/ViniTVS/)
+<!-- - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js** !-->
+- Fullstack and app developer @ [Spro IT Solutions](https://spro.com.br/) 💻
+- Computer Scientist by UFPR 👨‍🎓
+- Currently learning Go and it's ecosystem 📚
 
 
+### Skills
 
-<!-- 
-![Meus status do GitHub](https://github-readme-stats-vinitvs.vercel.app/api?username=ViniTVS&count_private=true&theme=github_dark&custom_title=Contribuições) -->
-<!--
-**ViniTVS/ViniTVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="32" alt="Ruby" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="32" alt="Ruby on Rails" style="margin-right: 4px"></p>
 
-Here are some ideas to get you started:
+### Badges
+![Most used languages](https://github-readme-stats-vinitvs.vercel.app/api/top-langs/?username=ViniTVS&theme=github_dark&layout=compact&custom_title=Most%20used%20languages)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![My Codewars ranking](https://www.codewars.com/users/ViniTVS/badges/small)](https://www.codewars.com/users/ViniTVS)
+
+[![My LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FViniTVS&logo=leetcode&logoColor=yellow)](https://leetcode.com/ViniTVS/)
+
+### Links
+<a href="https://www.linkedin.com/in/vini-tvs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20" style="margin-right: 4px"></a>
+<a href="https://vinitvs.github.io/" target="_blank"><img src="https://img.shields.io/badge/My_website-grey" height="20" style="margin-right: 4px"></a>
+
